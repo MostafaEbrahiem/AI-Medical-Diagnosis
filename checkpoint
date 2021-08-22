@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/MyDrive/saves/model.tfl"
+all_model_checkpoint_paths: "/content/drive/MyDrive/saves/model.tfl"
