@@ -7,6 +7,7 @@ An amazing project that will help  people to know quickly about their disease wi
 
 //////////////////////////////////////////////////////still under work/////////////////////////////////////////////////////////////
 
-![inCollage_20210826_181411225](https://user-images.githubusercontent.com/88105870/130998761-b1cd335d-24d6-4bad-8f78-eb656926724b.jpg)
-![Uploading inCollage_20210826_181504837.jpg…]()
-![Uploading inCollage_20210826_181528687.jpg…]()
+![inCollage_20210826_181528687](https://user-images.githubusercontent.com/88105870/130998947-b5eb66a4-5ce5-4120-9c85-746295ee90e4.jpg)
+![inCollage_20210826_181504837](https://user-images.githubusercontent.com/88105870/130999026-810828a8-929e-4cd7-b620-7887c3f26e22.jpg)
+![inCollage_20210826_181411225](https://user-images.githubusercontent.com/88105870/130999095-701b8769-82e8-4e57-86ba-65e3b4224f16.jpg)
+
